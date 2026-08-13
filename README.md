@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sselimkoc/Sselimkoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./banner.svg" width="60" alt="Turkey" />
 
-Here are some ideas to get you started:
+# Selim Koç
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Full Stack Developer** · Ankara, Türkiye
+
+Building web apps end-to-end — architecture, backend, frontend, and deployment.
+
+[![Website](https://img.shields.io/badge/selimkoc.dev-000000?style=flat)](https://selimkoc.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sselimkoc462/)
+
+</div>
+
+---
+
+### 🚀 What I'm building
+
+- **[selimkoc.dev](https://selimkoc.dev)** — a macOS-inspired desktop portfolio (TanStack Start, Prisma/Neon, Three.js)
+- **[feedTune](https://github.com/Sselimkoc/feedTune)** — an RSS & YouTube subscription reader
+- **[modern-gym](https://github.com/Sselimkoc/modern-gym)** — a modern fitness studio website
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,postgres,tailwind,threejs,vercel" />
+
+---
+
+<div align="center">
+<sub>🎮 I write code for a living. I play games to win.</sub>
+</div>
