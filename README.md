@@ -17,7 +17,7 @@ Building web apps end-to-end — architecture, backend, frontend, and deployment
 
 ### 🚀 What I'm building
 
-- **[selimkoc.dev](https://selimkoc.dev)** — a macOS-inspired desktop portfolio (TanStack Start, Prisma/Neon, Three.js)
+- **[selimkoc.dev](https://selimkoc.dev)** — a macOS-inspired desktop portfolio 
 - **[feedTune](https://github.com/Sselimkoc/feedTune)** — an RSS & YouTube subscription reader
 - **[modern-gym](https://github.com/Sselimkoc/modern-gym)** — a modern fitness studio website
 
