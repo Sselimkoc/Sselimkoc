@@ -4,7 +4,7 @@
 
 # Selim Koç
 
-**Full Stack Developer** · Ankara, Türkiye
+**Full Stack Developer**
 
 Building web apps end-to-end — architecture, backend, frontend, and deployment.
 
