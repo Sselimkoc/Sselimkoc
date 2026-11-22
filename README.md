@@ -15,13 +15,14 @@ Building web apps end-to-end — architecture, backend, frontend, and deployment
 
 ---
 
-### 🚀 What I'm building
+###  What I'm building
+
 
 - **[selimkoc.dev](https://selimkoc.dev)** — a macOS-inspired desktop portfolio 
 - **[feedTune](https://github.com/Sselimkoc/feedTune)** — an RSS & YouTube subscription reader
-- **[modern-gym](https://github.com/Sselimkoc/modern-gym)** — a modern fitness studio website
+- **[Doc RAG](https://github.com/Sselimkoc/doc_rag)** — Local document RAG system powered by AI
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,postgres,tailwind,threejs,vercel" />
 
